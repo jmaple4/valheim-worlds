@@ -1,6 +1,6 @@
 # valheim-worlds
 
-I built this world for my buddy Drew and others that might want to play Valheim without grinding on inital base building and gear. This provides you to with basic bases in every biome. Have fun.  
+I built this world for my buddy Drew and others that might want to play Valheim without grinding on inital base building and gear. This provides you with basic bases in every biome. Have fun.  
 
 Meadows
 ![Valheim Screenshot 2023 03 10 - 21 28 47 93](https://user-images.githubusercontent.com/5855609/224564340-ea78fa24-99ee-48c1-8a16-fe8a6c68ead2.png)
