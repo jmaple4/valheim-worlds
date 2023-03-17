@@ -1,3 +1,5 @@
+show_downloads: true
+
 plugins:
   - jekyll-remote-theme
 
@@ -5,4 +7,3 @@ plugins:
 remote_theme: zivong/ockham
 # theme: jekyll-theme-modernist
 
-show_downloads: true
