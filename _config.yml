@@ -4,3 +4,5 @@ plugins:
 # remote_theme: benbalter/retlab
 remote_theme: zivong/ockham
 # theme: jekyll-theme-modernist
+
+show_downloads: true
