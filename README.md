@@ -1,6 +1,8 @@
 # valheim-worlds
 
-I built this world for my buddy Drew and others that might want to play Valheim without grinding on inital base building and gear. This provides you with basic bases in every biome that might have bosses nearby. Have fun.  
+I built this world for my buddy Drew and others that might want to play Valheim without grinding on inital base building and gear. This provides you with basic bases in every biome that might have bosses nearby.  
+
+Here is how to use these files on your PC: https://playerassist.com/valheim-how-to-transfer-world-save-files-between-pc-server/. Once you play the world once, it should save to the cloud and you can access from your PC or Steam deck. 
 
 
 
