@@ -8,6 +8,9 @@ I built this world for my buddy Drew and others that might want to play Valheim 
 
 {% include youtube.html id="AhOiBkMHqvQ" %}  
 <br>
+
+![Thumbnail-valheim-scenic-cottage](https://user-images.githubusercontent.com/5855609/226114690-b54d3a1b-0c5e-496f-9d01-75e0c3536fb6.jpg)
+
 ![Thumbnail-valheim-scenic-cottage-2](https://user-images.githubusercontent.com/5855609/226085270-e14276cd-25c0-40de-80ad-1f52f3ad6b13.jpg)  
 
 ![Thumbnail-valheim-scenic-cottage-3](https://user-images.githubusercontent.com/5855609/226085355-955e5d53-7296-4d4d-b17b-42e99fdbb9be.jpg)
