@@ -7,9 +7,8 @@ Here is how to use these files on your PC: https://playerassist.com/valheim-how-
 
 
 ## Meadows
+Video walkthrough: https://www.youtube.com/watch?v=AhOiBkMHqvQ  
 
-<!-- {% include youtube.html id="AhOiBkMHqvQ" %}  
-<br> -->
 ![Thumbnail-valheim-scenic-cottage](https://user-images.githubusercontent.com/5855609/226115385-1faf52ac-e352-4779-82f6-bce777f0c3df.jpg)
 
 ![Thumbnail-valheim-scenic-cottage-2](https://user-images.githubusercontent.com/5855609/226085270-e14276cd-25c0-40de-80ad-1f52f3ad6b13.jpg)  
@@ -18,12 +17,16 @@ Here is how to use these files on your PC: https://playerassist.com/valheim-how-
 
 ## Black forrest
 
+Video walkthrough: https://www.youtube.com/watch?v=eubTOXeFkq0
+
 ![Thumbnail-valheim-scenic-cabin](https://user-images.githubusercontent.com/5855609/226085392-63c3b95c-ecf5-4d9f-b8da-b9856b34cfbc.jpg)  
 
 ![Thumbnail-valheim-scenic-cabin-3](https://user-images.githubusercontent.com/5855609/226085402-d0f6e32e-d927-4a65-bbde-24495020cf4f.jpg)
 
 
 ## Swamp
+
+Video walkthrough: Coming soon.
 
 ![Thumbnail-valheim-scenic-crypt](https://user-images.githubusercontent.com/5855609/226085407-2655427e-01a1-4928-9fe0-9c656a9f24cf.jpg)  
 
